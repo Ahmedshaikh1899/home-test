@@ -6,7 +6,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.example</groupId>
-    <artifactId>demo-app</artifactId>
+    <artifactId>home-test</artifactId>
     <version>1.0</version>
 
     <properties>
